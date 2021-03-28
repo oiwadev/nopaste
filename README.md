@@ -1,6 +1,6 @@
 [exploiting.fun's](https://exploiting.fun) paste service :))
 
-# All credits go the original creator of this project -- It is very impressive, enough to make great use of it.
+# All credits go the original creator of this project, bokub -- It is very impressive, enough to make great use of it, so thank you for creating this.
 
 [![Intro](https://github.com/bokub/nopaste/raw/images/intro.png)][intro-img]
 
