@@ -1,3 +1,6 @@
+[exploiting.fun's paste service :))]
+All credits go the original creator of this project -- It is very impressive, enough to make great use of it.
+
 [![Intro](https://github.com/bokub/nopaste/raw/images/intro.png)][intro-img]
 
 # What is NoPaste?
